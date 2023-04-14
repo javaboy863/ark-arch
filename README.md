@@ -1,4 +1,4 @@
-# best practices list
+# Architecture List
 | 序号 |  名称 | 链接 |
 | :----:  | :----: | :----: |
 | 1 |  整洁架构 | [整洁架构](https://github.com/javaboy863/ark-arch/tree/main/arch-clean-architecture) |
