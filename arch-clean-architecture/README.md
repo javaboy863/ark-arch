@@ -23,6 +23,6 @@
      <img src="./img/4.png" width="200px"/>
   </div>
     <br/>
-- [天气平台：weather-platform](https://github.com/javaboy863/weather-platform)
+- 整洁架构实践的示例项目：[ark-sample-clean-code](https://github.com/javaboy863/ark-sample-clean-code)
 # 5.参考资料
 - [clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
