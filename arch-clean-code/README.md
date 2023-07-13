@@ -11,12 +11,12 @@
 # 3.怎么实现clean code？
 &emsp;&emsp;我个人在这么多年的职业生涯中，总结了实现整洁代码的三板斧：
 - 第一板斧：代码评分<br>
-  <div align="center">
+  <div align="left">
      <img src="./img/1.png" width="300px"/>
   </div>
   - 包括：单元测试覆盖率，坏味道，漏洞级别（是阻断级别、严重级别、主要级别），缺陷级别（阻断级别、严重级别、主要级别），注释率 ，代码覆盖率，线上发生故障，性能：接口TP99，慢查询，SLA，无效报警量等
 - 第二板斧：结构化编程
-  <div align="center">
+  <div align="left">
     <img src="./img/2.png" width="50%" align="center"/>
     <img src="./img/3.png" width="50%" align="center"/>
   </div>
